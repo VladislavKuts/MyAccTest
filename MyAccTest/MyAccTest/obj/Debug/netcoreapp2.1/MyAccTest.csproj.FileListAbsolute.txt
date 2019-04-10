@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\MyAccTest.deps.json
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\MyAccTest.runtimeconfig.json
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\MyAccTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\MyAccTest.dll
+C:\Users\User\source\repos\MyAccTest\MyAccTest\obj\Debug\netcoreapp2.1\MyAccTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyAccTest\MyAccTest\obj\Debug\netcoreapp2.1\MyAccTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyAccTest\MyAccTest\obj\Debug\netcoreapp2.1\MyAccTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyAccTest\MyAccTest\obj\Debug\netcoreapp2.1\MyAccTest.AssemblyInfo.cs
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\source\repos\MyAccTest\MyAccTest\bin\Debug\netcoreapp2.1\MyAccTest.pdb
+C:\Users\User\source\repos\MyAccTest\MyAccTest\obj\Debug\netcoreapp2.1\MyAccTest.dll
+C:\Users\User\source\repos\MyAccTest\MyAccTest\obj\Debug\netcoreapp2.1\MyAccTest.pdb
